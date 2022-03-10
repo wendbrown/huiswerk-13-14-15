@@ -1,0 +1,91 @@
+body{
+  font-family: sans-serif, Arial;
+  color: #5D6161;
+  font-size: 19px;
+  background-color: #D8F2F2;
+  }
+
+  header{
+    height: 150px;
+    width: auto;
+    background-color: #59C9C9;
+  }
+
+  footer{
+    height: 150px;
+    width: auto;
+    background-color: #59C9C9;
+  }
+
+ h1{
+    text-align: center;
+    padding: :15px;
+    margin-top: 0px;
+  }
+
+  li{
+    font-family: sans-serif, Arial;
+    display: inline-block;
+    height: 22px;
+    width: 75px;
+    text-align: center;
+    background-color: #00EBEB;
+    padding: 12px;
+    }
+
+    a{
+      color: #5D6161;
+      text-decoration: none;
+    }
+
+  li:hover{
+    color: white;
+    background-color: #EB2ADE;
+    }
+
+  div{
+    height: 600px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: white;
+    padding: 5px;
+  }
+
+   #copy{
+    text-align: right;
+    padding-top: 129px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-size: 15px;
+   }
+
+  input, textarea, button{
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 400px;
+    box-sizing: border-box;
+    }
+
+  button:active{
+    color: white;
+    background-color: #EB2ADE;
+  }
+
+  textarea{
+    height: 100px;
+    padding: 5px 4px;
+  }
+
+  form{
+    border-collapse: collapse;
+  }
+
+  .center{
+    display: block;
+    text-align: center;
+    margin-top: 13%;
+    }
